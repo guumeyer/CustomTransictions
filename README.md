@@ -1,2 +1,2 @@
-# CustomTransictions
-Custom transactions between views controllers
+# CustomTransitions
+Custom transations between views controllers
